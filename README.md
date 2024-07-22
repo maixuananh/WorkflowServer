@@ -22,4 +22,5 @@
 4.Mở terminal 
   nhập lệnh
   pip install facebook_scaper
-  .\start.bat
+  
+  5.  .\start.bat
